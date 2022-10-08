@@ -92,7 +92,7 @@ nest-asyncio==1.5.5
 networkx==2.8.6
 nltk==3.7
 nodeenv==1.7.0
-noebook==6.4.12
+
 numba==0.56.2
 numpy==1.23.1
 oauthlib==3.2.0
